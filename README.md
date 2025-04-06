@@ -1,2 +1,3 @@
 # OSPF
-Configuracion de enrutamiento dinamico con ospf v2
+# Topologia
+![Tpologia](ospf.PNG)
